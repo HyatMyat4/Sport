@@ -1,0 +1,201 @@
+.secondTopContainer{
+    width: 100%;
+    height: 44px;
+    background-color:#232F3E;
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.secondtop2img {
+    display: inline-block;
+    width: 60px;
+    height: auto;
+   
+    margin-top: 7px;
+}
+.secondTopimg1 {
+    width: 70px;
+    height: auto;   
+   margin-left: 10px;
+   display: inline-block;
+}
+.secondTopimg1:hover {
+    border: 1px solid white;  
+    color: white;
+}
+.Bestseller {
+    margin-top: 4px;
+    min-width: 88px;
+}
+.bestsellerholder {
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+   
+}
+.bestsellerholder:hover {
+    border: 1px solid white;  
+   
+}
+.CustomerSErviece {
+    margin-top: 4px;
+    min-width: 145px;
+}
+.Todayholder {
+    margin-top: 4px;
+    min-width: 118px;
+}
+.New {
+    margin-top: 4px;
+    min-width: 119px;
+}
+.books {
+    margin-top: 4px;
+    min-width: 50px;
+}
+.Electric{
+    
+    min-width: 80px;
+}
+.Home {
+    margin-left: 10px;
+    min-width: 38px;
+}
+.Toys {
+    margin-left: 10px;
+    min-width: 120px;
+    margin-left: 10px;
+}
+.Prime2{
+    margin-top: 4px;
+}
+.vouchers {
+    margin-top: 4px;
+    min-width: 90px;
+}
+.giftcards {
+    margin-top: 4px;
+    min-width: 95px;
+}
+.amazompoyo{
+    flex-wrap: nowrap;
+}
+.amazompoyo:hover{
+    border: 1px solid white;
+}
+.CustomerSErvieceholder {
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+    margin-left: 10px;
+}
+.CustomerSErvieceholder:hover {
+    border: 1px solid white;  
+}
+a{
+    text-decoration: none; 
+	color: white;
+    color: white;
+}
+
+a, a:hover  {
+    text-decoration: none;
+    color: white;
+    }
+.Today {
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+    margin-left: 10px;
+  display: inline-block;
+    
+}
+.Today:hover {
+    border: 1px solid white;  
+   
+}  
+.Prime {
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.Prime:hover {
+    border: 1px solid white;  
+}
+.primeimg {
+    width: 430px;
+    height: auto;
+    margin-left: 10px;
+    display: inline-block;   
+    padding: 4px; 
+    padding-bottom: 0px;  
+    margin-top: 1px;
+    
+}
+@media (max-width : 1670px) {
+    .primeimg  {
+        width: 390px;
+    }
+    .beauty{
+        display: none;
+    }
+    .giftcards{
+        display: none;
+    }
+ 
+  }
+  @media (max-width : 1650px ) {
+    .computer{
+        display: none;
+     }
+
+}
+@media (max-width : 1408px ) {
+    .vouchers{
+        display: none;
+     }
+
+}
+@media (max-width : 1323px ) {
+    .Toys{
+        display: none;
+     }
+     .forthbox{
+        display: none;
+     }
+
+}
+@media (max-width : 1208px ) {
+    .Home{
+        display: none;
+     }
+
+}
+@media (max-width : 1135px ) {
+    .Electric{
+        display: none;
+     }
+
+}
+@media (max-width : 1100px ) {
+    .seachcontainer {
+        min-width: 350px;  
+    }
+    .secondTopContainer{
+        min-width: 1100px;
+        height: 44px;
+        
+       
+    }
+    body{
+        min-width: 1100px;
+    }
+    
+
+}

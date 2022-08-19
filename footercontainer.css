@@ -1,0 +1,329 @@
+.footercontainer {
+width: 100%;
+margin-top: 27px;
+overflow: hidden;
+}
+.singin  {
+width: 100%;
+background-color: white;
+height: 240px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.singincontainer {
+    height: 150px;
+    width: 100%;
+    border: 1px solid rgba(128, 128, 128, 0.506);
+
+}
+.see {
+    font-size: 14px;
+    display: block;
+   margin-left: 7px;
+    
+}
+.singbutton {
+    margin-top: 4px;
+    display: block;
+    background-color: #FFC83D;
+    border: 1px solid #ffb547;
+    padding: 3px  100px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 12px;
+   
+}
+.middle {
+    max-width: 300px;
+    margin: 30px auto;
+}
+.see2{
+    font-size: 11px;
+    margin-left: 45px;
+}
+.singina {
+    color: darkcyan;
+}
+.singina:hover {
+    color: red;
+}
+.ina{
+    color: black;
+}
+.ina:hover{
+    color: black;
+}
+.secondfooter {
+background-color: #131A22 ;
+width: 100%;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-size: 14px;
+}
+.secondfooter:hover{
+    background-color: #3c6598;
+}
+.thirdfooter {
+    background-color:#232F3E;
+    width: 100%;
+    height: 600px;
+}
+.textcontainer {
+   
+    width: 900px;
+    margin:  auto;
+    display: flex;
+    justify-content: space-between;
+}
+.shad{
+    margin-top: 60px;
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    display: block;
+   
+}
+.spanchild {
+   
+    font-size: 14px;
+    color: #D7DDD3;
+    display: block;
+    margin-top: 12px;
+}
+.spanchild:hover {
+    text-decoration: underline;
+}
+.le2 {
+    width: 150px;
+}
+.lasttedfooter {
+  margin-top: 40px;
+border-top: 1px solid rgba(128, 128, 128, 0.506);
+
+
+}
+.lastfooterpt {
+    width: 160px;
+    height: auto;
+    margin: 25px;
+ 
+  
+}
+.lastchild {
+    margin-left: 10px;
+}
+.lastchild:hover {
+    text-decoration: underline;
+}
+.middlechild {
+    max-width: 1000px;
+    margin: 40px auto;
+}
+.siseslider {
+height: 1000px;
+width: 100vw;
+position: absolute;
+top: 0;
+left: 0;
+background-color: #2f2f2fe6;
+z-index: 10px;
+display: none;
+}
+body{
+    
+}
+.secondbd {
+    opacity: 1;
+width: 410px;
+height: 100vh;
+background-color: white;
+overflow-y: scroll;
+}
+.hellotopsingin{
+    width: 100%;
+    height: 50px;
+    background-color: #232F3E;
+    
+  margin-bottom: 20px;
+}
+.userlogo{
+    color: white;
+    font-size: 36px;
+    margin-top: 9px;
+   margin-left: 70px;
+}
+.barsinin{
+font-size: 22px;
+font-weight: bold;
+color: white;
+margin-left: 7px;
+margin-top: 9px;
+
+}
+.Digital {
+    font-size: 17px;
+    font-weight: bold;    
+    margin-left: 36px;
+}
+.conten1t {
+margin-left: 230px;
+font-size: 18px;
+}
+.amazomsideshild{
+   height: 50px;
+   width: 100%;
+    
+    align-items: center;
+
+}
+.amazomsideshild:hover{
+    background-color: #EAEDED;
+}
+.rr{
+    margin-left: 36px;
+   
+    margin-top: 100px;
+}
+.amazomchildmid2{
+    position: relative;
+    align-items: center;
+    margin-top: 10px;
+   
+}
+.ps3{
+    position: relative;
+    top: 15px;
+}
+.css4{
+    margin-left: 160px;
+    font-size: 18px;
+}
+.rtj{
+    margin-left: 189px;
+    font-size: 18px;
+    
+}
+.et2{
+    border-bottom: 1px solid #D5DBDB;
+   margin-top: 10px;
+}
+.wdv{
+    margin-top: 17px;
+}
+.nnk{
+
+    margin-left: 265px;
+    font-size: 18px;
+}
+.nnk1{
+
+    margin-left: 269px;
+    font-size: 18px;
+}
+.nnk2{
+
+    margin-left: 250px;
+    font-size: 18px;
+}
+.angledow {
+    margin-left: 5px;
+    font-size: 18px;
+}
+.nnk3{
+    margin-left: 270px;
+    font-size: 18px;
+}
+.Foundlt{
+    color: black;
+}
+.nnk4 {
+    margin-left: 248px;
+    font-size: 18px;
+}
+.nnk5{
+    margin-left: 180px;
+    font-size: 18px;
+
+}
+.ps3:hover {
+    color: #131A22;
+}
+.eze{
+    margin-left: 30px;
+}
+.ez{
+    margin-left: 4px;
+}
+.usa{
+    width: 30px;
+    margin-left: 30px;
+}
+.lass{
+    margin-bottom: 50px;
+}
+.clickdisspear{
+position: absolute;
+top: 0px;
+right: 0px;
+min-width: 73%;
+
+height: 100vh;
+
+}
+body {
+    height: 100%;
+}
+@media (max-width : 1103px  ) {
+
+    .siseslider{
+        height: 100%;
+       
+    }
+    
+        .siseslider{
+            background-color: rgba(255, 255, 255, 0);
+        }
+        
+
+
+}
+@media(max-width : 1488px) {
+
+    .clickdisspear{
+           
+        min-width: 67%;
+        
+        
+        }
+        
+}
+@media(max-width : 1140px) {
+    .clickdisspear{
+       
+        min-width: 0%;
+        height: 0vh;
+        
+        }
+
+    .clickdisspear{
+           
+        min-width: 64%;       
+        
+        }
+       .secondbd {
+        height: 1000%;
+       }
+}
+.hellosingin{
+    user-select: none;
+}
+.xlogo {
+    
+    color: white;
+    font-size: 25px;
+    margin-left: 100px;
+}

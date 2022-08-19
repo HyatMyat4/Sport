@@ -1,0 +1,141 @@
+.bodycontainer{
+   max-width: 1500px;
+   height: auto;
+ 
+ margin: 0 auto;
+}
+.bodyimgcontainer {
+    cursor: pointer;
+    width: 100%;
+    position: relative;
+}
+.bdimg{
+    width: 100%;
+}
+.clickangle {
+position: absolute;
+width: 86px;
+height:255px ;
+font-size: 40px;
+border: 2px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 3px;
+
+
+}
+.clickangle2 {
+    right: 0px;
+}
+.rowcontainer {
+    min-width: 90%;
+    height: 400px;
+  
+    position: absolute;
+    top: 370px;
+    display: flex;
+    
+}
+.firstbox {
+    
+}
+.box1 {
+    display: inline-block;
+    background-color: white;
+   min-width: 350px;
+    height: 400px;
+    margin-left: 20px;
+}
+.rogmouse {
+width: 150px;
+height: auto;
+margin-left: 10px;
+
+}
+.s1 {
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin: 13px;
+    
+}
+.chir {
+    display: block;
+    width: 335px;
+    height: auto;
+    padding: 10px;
+}
+.seemore{
+    color: black;
+}
+.seemore:hover{
+    color: black;
+}
+.ps5 {
+    overflow: hidden;
+    
+}
+.phone {
+    margin-top: 13px;
+}
+
+.ee {
+    display: block;
+}
+.pp {
+    margin-top: 35px;
+}
+.clothes {
+ 
+    min-width: 300px;
+    height: auto;
+   margin-left: 10px;
+}
+.clo {
+    margin-top: -2px;
+}
+@media (max-width : 1300px ) {
+   
+     .forthbox{
+        display: none;
+     }
+ .rowcontainer{
+    display: flex;
+    justify-content: space-between;
+    margin:0 auto;
+ }
+ .firstbox {
+    margin-left: 85px;
+  
+ }
+}
+@media (max-width : 1488px ) {
+    .bdimg{
+        height: 600px;
+    }
+
+
+}
+@media (max-width : 1230px ) {
+    .firstbox {
+        margin-left: 45px;
+      
+     }
+
+
+}
+@media (max-width : 1134px ) {
+    .firstbox {
+        margin-left: 15px;
+      
+     }
+
+}
+@media (max-width : 1074px ) {
+    .firstbox {
+        margin-left: 0px;
+      
+     }
+
+}

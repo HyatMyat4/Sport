@@ -1,0 +1,112 @@
+.body2container{
+max-height: 300px;
+width: 10000vw;
+display: flex;
+flex-wrap: nowrap;
+background-color: white;
+margin-top: 80px;
+
+}
+.ovcontainer {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.secondrow {
+margin: 0px 18px;
+height: 100%;
+
+    
+}
+div.body2container {
+  
+  }
+.bookimg {
+    width: 200px;
+    height: auto;
+    margin-top: -10px;
+
+}
+.ss{
+    margin-left: -1px;
+}
+.scroolbutton1 {
+    margin-top: 65px;
+    position: absolute;
+width: 47px;
+height:110px ;
+font-size: 40px;
+border: 2px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 2px;
+background-color: white;
+}
+.ov2 {
+    right: 0px;
+}
+.last {
+    display: flex;
+    justify-content: space-between;
+    margin:0 auto;
+    min-width: 90%;
+    height: 400px;  
+   margin-top: 20px;
+  
+    display: flex;
+    
+}
+.lasbb1 {
+   
+    display: inline-block;
+   background-color: white;
+   min-width: 350px;
+    height: 400px;
+    margin-left: 20px;
+}
+.jim {
+    width: 310px;
+    height: auto;
+    margin: 18px;
+}
+.lasbb2 {
+    display: inline-block;
+    background-color: white;
+    min-width: 350px;
+     height: 400px;
+     margin-left: 20px;
+
+}
+.coffe2 {
+    width: 320px;
+    height: auto;
+    margin: 15px;
+    margin-bottom: 0px;
+}
+.exo{
+    display: block;
+    margin-left: 15px;
+}
+.sea {
+    margin-left: 1px;
+}
+.airb {
+    display: block;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.lasbb3 {
+    display: inline-block;
+    background-color: white;
+    min-width: 350px;
+     height: 400px;
+     margin-left: 20px;
+
+}
+@media (max-width : 1300px ) {
+   
+    .lb4{
+       display: none;
+    }
+}
